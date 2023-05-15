@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Author: your name; youremail@myseneca.ca
-# Date: 
+# Author: Your Name; youremail@myseneca.ca
+# Date:
 # Purpose: Creates system info report
 # Usage: ./myreport.py
 
@@ -14,4 +14,28 @@
 
 
 # Call the date command using the os module
+
+
+# Print a heading for hostname
+
+
+# Call the hostname command using the os module
+
+
+# Print a heading for kernel version
+
+
+# Print the kernel version
+
+
+# Print a heading for the running processes
+
+
+# Print the running processes
+
+
+# Print a heading for the ip address
+
+
+# Print the ip address(es)
 
